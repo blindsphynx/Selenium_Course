@@ -1,2 +1,2 @@
 # Selenium_Course
-just repo
+just repo for `peer review` in this course
